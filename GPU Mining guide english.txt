@@ -1,0 +1,15 @@
+Ok guys, we tested GPU mining with CCMiner, it works only for NVIDIA graphic cards this one.
+Further Miners will be provided for other GPUs.
+
+Here are instructions:
+
+- Download the attached file Here https://kittypool.club/CCMINER-BTO.zip;
+- Unzip file;
+- Open and edit file ccminer.conf with note ++ software or similars;
+- Change "cpu-priority" : 3, to how many CPU cores you want to use;
+- Change "user" with your wallet address;
+- Save and close file.
+Finally RUN ccminer-x64  (this is for x64 windows users, for others you need to download the
+matching version).
+Watch your wallet coins grow over time.
+Thanks everyone and good mining!
