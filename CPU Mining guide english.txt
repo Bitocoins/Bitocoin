@@ -1,7 +1,0 @@
-- Download this ::::: https://github.com/pooler/cpuminer/releases
-
-- then use this command to start mining:
-
-./minerd --algo=scrypt --url=stratum+tcp://173.212.196.144:3032 --user=your wallet address --pass=anything
-
-Let us know any feedback and if everything is working smoothly. Thank you everyone.
