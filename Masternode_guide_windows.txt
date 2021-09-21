@@ -24,7 +24,7 @@ masternodeprivkey=PRIVATEKEYREPLACETHIS
 8.Now save and close the config file. 
 9. Open Masternode.conf. This config file is located at C:/users/***Your windows username***/appdata(hidden)/roaming/bitocoin/masternode.conf  Then paste in the following.
 
-mn1 127.0.0.1:53472 PRIVATEKEYREPLACETHIS INSERTYOURTXID 0
+mn1 127.0.0.1:53472 PRIVATEKEYREPLACETHIS INSERTYOURTXID 1
 
 10. if you dont know where to find your Transaction ID (TXID), just open your wallet, go to transactions and double click to the 25000 bitocoin transaction, the you will see the TXID. 
 11. save and close masternode.conf
